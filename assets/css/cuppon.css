@@ -1,0 +1,58 @@
+/*navbar*/
+
+.navbar {
+    background-color: #a78528;
+    display: flex;
+}
+
+.log1 {
+    height: 70px;
+    margin-left: 100px;
+}
+
+
+/*tarjetas*/
+
+.linea1 {
+    color: #28a745;
+}
+
+.a:hover {
+    transform: scale(0.9);
+    border-radius: 30px;
+    transition: all 0.5s ease;
+}
+
+
+/*formulario*/
+
+.formul {
+    background-color: #a78528;
+}
+
+.form-label {
+    color: white;
+}
+
+.boton {
+    text-align: center;
+}
+
+
+/* footer*/
+
+footer {
+    height: 110px;
+    line-height: 102px;
+    font-size: 40px;
+    text-align: center;
+    align-self: flex-end;
+}
+
+.ico {
+    color: #a78528;
+    font-size: 60px;
+}
+
+
+/*end footer*/

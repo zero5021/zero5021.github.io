@@ -1,0 +1,62 @@
+body {
+    color: white;
+    background-image: url("../img/matrix.gif");
+}
+
+
+/*navbar*/
+
+.navbar {
+    background-color: #a78528;
+    display: flex;
+}
+
+.log1 {
+    height: 70px;
+    margin-left: 100px;
+}
+
+
+/*mis trabajos*/
+
+.cont {
+    background-color: #a78528;
+}
+
+.carousel {
+    background-color: rgb(3, 64, 36);
+}
+
+.carousel-item {
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    width: 600px;
+}
+
+
+/* footer */
+
+footer {
+    display: inline-block;
+    background-color: #1e1a13;
+    margin-top: 150px;
+    align-self: flex-end;
+    width: 100%;
+    padding-top: 0px;
+}
+
+.final {
+    font-size: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.ico {
+    color: #a78528;
+}
+
+
+/*fin footer*/
