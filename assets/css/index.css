@@ -40,7 +40,7 @@ body {
 
 footer {
     display: inline-block;
-    background-color: #1e1a13;
+    background-color: rgb(3, 64, 36);
     margin-top: 150px;
     align-self: flex-end;
     width: 100%;
